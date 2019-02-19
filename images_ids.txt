@@ -699,5 +699,3 @@ Seq05VD_f05010
 Seq05VD_f05040
 Seq05VD_f05070
 Seq05VD_f05100
-images_ids.txt
-test.txt
